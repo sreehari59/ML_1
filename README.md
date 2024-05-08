@@ -1,4 +1,5 @@
-# Predict. Recommend. Sell More: Optimizing Sales Performance with ML-powered Product Forecasting
+# Predict. Recommend. Sell More: 
+# Optimizing Sales Performance with ML-powered Product Forecasting
 
 This is project is part of Machine Learning Nanodegree program
 
